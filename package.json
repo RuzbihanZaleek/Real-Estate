@@ -1,0 +1,17 @@
+{
+  "name": "real-state",
+  "version": "1.0.0",
+  "description": "Real State Website Using MERN Stack",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon api/index.js",
+    "start": "node api/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
