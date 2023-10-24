@@ -1,5 +1,5 @@
-# Real-State
-Real State Website Using MERN Stack
+# Real-Estate
+Real Estate Website Using MERN Stack
 
 1. Install React.js, Tailwind CSS and create the first template
 2. Create Pages and Routes </br>
