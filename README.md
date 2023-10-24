@@ -12,5 +12,6 @@ Real Estate Website Using MERN Stack
     4.2 npm i nodemon </br>
 5. Connect the DB </br>
     5.1 npm i mongoose </br>
-    5.2 npm i dotenv
+    5.2 npm i dotenv </br>
+6. Create User Model
 
