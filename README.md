@@ -9,5 +9,8 @@ Real State Website Using MERN Stack
 4. Create and Run The Server </br>
     4.1 "npm init -y" - For client and api </br>
     4.2 npm i express </br>
-    4.2 npm i nodemon
+    4.2 npm i nodemon </br>
+5. Connect the DB </br>
+    5.1 npm i mongoose </br>
+    5.2 npm i dotenv
 
