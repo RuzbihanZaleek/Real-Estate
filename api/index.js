@@ -3,6 +3,7 @@ const mongoose = require('mongoose');
 require('dotenv').config();
 const userRouter = require('./routes/user.route');
 const authRouter = require('./routes/auth.route');
+const errorHandler = require('./middleware/errorHandler.middleware');
 
 mongoose
     .connect(process.env.DB_URL)
@@ -22,3 +23,5 @@ app.listen(3000, () => {
 
 app.use('/api/user', userRouter);
 app.use('/api/auth', authRouter);
+
+app.use(errorHandler);
