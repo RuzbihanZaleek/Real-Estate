@@ -14,5 +14,7 @@ Real Estate Website Using MERN Stack
     5.1 npm i mongoose </br>
     5.2 npm i dotenv </br>
 6. Create User Model </br>
-7. Create a test API route
+7. Create a test API route </br>
+8. Create a sign up API route </br>
+    8.1 npm i bcryptjs
 
