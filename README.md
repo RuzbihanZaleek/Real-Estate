@@ -17,5 +17,9 @@ Real Estate Website Using MERN Stack
 7. Create a test API route </br>
 8. Create a sign up API route </br>
     8.1 npm i bcryptjs </br>
-9. Create a middleware and a function to handle possible errors
+9. Create a middleware and a function to handle possible errors </br>
+10. Complete sign up page UI </br>
+11. Complete sign up page functionality </br>
+12. Create sign in API route </br>
+    12.1 npm i jsonwebtoken
 
