@@ -22,5 +22,7 @@ Real Estate Website Using MERN Stack
 11. Complete sign up page functionality </br>
 12. Create sign in API route </br>
     12.1 npm i jsonwebtoken </br>
-13. Complete sign in page functionality    
+13. Complete sign in page functionality    </br>
+14. Add redux toolkit </br>
+    14.1 npm install @reduxjs/toolkit react-redux
 
