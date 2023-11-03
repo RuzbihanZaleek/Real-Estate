@@ -28,5 +28,6 @@ Real Estate Website Using MERN Stack
 15. Add redux persist </br>
     15.1 npm install redux-persist </br>
 16. Add Google OAuth functionality </br>
-    16.1 npm install firebase
+    16.1 npm install firebase </br>
+17. Update the header and make the profile page private    
 
