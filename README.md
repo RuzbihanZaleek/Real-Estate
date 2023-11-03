@@ -26,5 +26,7 @@ Real Estate Website Using MERN Stack
 14. Add redux toolkit </br>
     14.1 npm install @reduxjs/toolkit react-redux </br>
 15. Add redux persist </br>
-    15.1 npm install redux-persist
+    15.1 npm install redux-persist </br>
+16. Add Google OAuth functionality </br>
+    16.1 npm install firebase
 
