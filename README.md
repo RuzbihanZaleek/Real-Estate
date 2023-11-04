@@ -30,5 +30,8 @@ Real Estate Website Using MERN Stack
 16. Add Google OAuth functionality </br>
     16.1 npm install firebase </br>
 17. Update the header and make the profile page private </br>
-18. Complete Profile Page UI 
+18. Complete Profile Page UI </br>
+19. Complete image upload functionality </br>
+20. Create update user API route </br>
+    20.1 npm i cookie-parser
 

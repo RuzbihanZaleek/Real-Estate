@@ -4,6 +4,7 @@ require('dotenv').config();
 const userRouter = require('./routes/user.route');
 const authRouter = require('./routes/auth.route');
 const errorHandler = require('./middleware/errorHandler.middleware');
+const cookieParser = require('cookie-parser');
 
 mongoose
     .connect(process.env.DB_URL)
@@ -16,6 +17,8 @@ mongoose
 
 const app = express();
 app.use(express.json());
+
+app.use(cookieParser());
 
 app.listen(3000, () => {
     console.log('Server is running on port 3000');
