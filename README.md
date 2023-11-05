@@ -34,6 +34,7 @@ Real Estate Website Using MERN Stack
 19. Complete image upload functionality </br>
 20. Create update user API route </br>
     20.1 npm i cookie-parser </br>
-21. Complete update user functionality
+21. Complete update user functionality </br>
+22. Add delete user functionality
 
 
