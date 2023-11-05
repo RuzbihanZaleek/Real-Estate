@@ -3,6 +3,7 @@ const mongoose = require('mongoose');
 require('dotenv').config();
 const userRouter = require('./routes/user.route');
 const authRouter = require('./routes/auth.route');
+const listingRouter = require('./routes/listing.route');
 const errorHandler = require('./middleware/errorHandler.middleware');
 const cookieParser = require('cookie-parser');
 
@@ -26,5 +27,6 @@ app.listen(3000, () => {
 
 app.use('/api/user', userRouter);
 app.use('/api/auth', authRouter);
+app.use('/api/listing', listingRouter);
 
 app.use(errorHandler);
