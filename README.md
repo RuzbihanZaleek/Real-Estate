@@ -41,7 +41,9 @@ Real Estate Website Using MERN Stack
 25. Complete create listing page UI </br>
 26. Complete upload listing images functionality </br>
 27. Complete create listing page functionality </br>
-28. Create get user listings API route
+28. Create get user listings API route </br>
+29. Complete show user listings functionality
+
 
 
 
