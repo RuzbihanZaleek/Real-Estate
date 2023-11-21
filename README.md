@@ -45,6 +45,8 @@ Real Estate Website Using MERN Stack
 29. Complete show user listings functionality </br>
 30. Complete delete user listing functionality </br>
 31. Create update listing API route </br>
+32. Complete update listing functionality </br>
+
 
 
 
