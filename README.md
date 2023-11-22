@@ -46,6 +46,8 @@ Real Estate Website Using MERN Stack
 30. Complete delete user listing functionality </br>
 31. Create update listing API route </br>
 32. Complete update listing functionality </br>
+33. Add image slider to the listing page </br>
+        33.1 npm i swiper </br>
 
 
 
