@@ -48,6 +48,7 @@ Real Estate Website Using MERN Stack
 32. Complete update listing functionality </br>
 33. Add image slider to the listing page </br>
         33.1 npm i swiper </br>
+34. Complete listing page </br>        
 
 
 
