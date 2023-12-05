@@ -52,6 +52,7 @@ Real Estate Website Using MERN Stack
 35. Add contact landlord functionality to the listing page </br>
 36. Create search API route </br>
 37. Complete header search from functionality </br>
+38. Create search page UI </br>
 
 
 
