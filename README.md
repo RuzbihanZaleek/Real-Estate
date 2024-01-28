@@ -55,3 +55,8 @@ Real Estate Website Using MERN Stack
 37. Complete header search from functionality </br>
 38. Create search page UI </br>
 39. Add onChange and onSubmit functionality to the search page </br>
+40. Create the listing item component and show listings </br>
+    40.1 truncate: to add ... to the long names if it beyond the width </br>
+    40.2 npm install -D @tailwindcss/line-clamp: in FE to wrap lines </br>
+    40.3 add clamp plugins to the tailwind.config.css </br>
+    40.4 toLocaleString("en-US") : for numbers comma separate </br>
