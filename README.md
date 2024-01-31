@@ -61,3 +61,4 @@ Real Estate Website Using MERN Stack
     40.3 add clamp plugins to the tailwind.config.css </br>
     40.4 toLocaleString("en-US") : for numbers comma separate </br>
 41. Add show more listing functionality </br>
+42. Complete home page </br>
