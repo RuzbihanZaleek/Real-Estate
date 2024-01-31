@@ -60,3 +60,4 @@ Real Estate Website Using MERN Stack
     40.2 npm install -D @tailwindcss/line-clamp: in FE to wrap lines </br>
     40.3 add clamp plugins to the tailwind.config.css </br>
     40.4 toLocaleString("en-US") : for numbers comma separate </br>
+41. Add show more listing functionality </br>
