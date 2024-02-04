@@ -8,6 +8,11 @@ const errorHandler = require("./middleware/errorHandler.middleware");
 const cookieParser = require("cookie-parser");
 const path = require("path");
 
+// Check if __dirname is not defined, then declare it
+if (!global.__dirname) {
+    global.__dirname = path.resolve();
+  }
+
 mongoose
   .connect(process.env.DB_URL)
   .then(() => {
@@ -17,7 +22,6 @@ mongoose
     console.log(err);
   });
 
-const __dirname = path.resolve();
 
 const app = express();
 app.use(express.json());
