@@ -63,3 +63,12 @@ Real Estate Website Using MERN Stack
 41. Add show more listing functionality </br>
 42. Complete home page </br>
 43. Complete about page </br>
+44. Deploy to render </br>
+    44.1 Need to add a script in package.json to build the client side </br>
+    44.2 We run "npm run build" in server (versal) </br>
+        44.2.1 first need to install the backend "npm install"</br>
+        44.2.2. "npm install --prefix client" - go to the client folder and install npm </br>
+        44.2.3 "npm run build --prefix" client" - go to the client folder and build npm </br>
+        44.2.4 "build": "npm install && npm install --prefix client && npm run build --prefix client" </br>
+        44.2.5 Will get the dist folder </br>
+        44.2.6 Run dist folder by backend index.js file </br>
