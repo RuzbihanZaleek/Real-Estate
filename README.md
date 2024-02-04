@@ -72,3 +72,4 @@ Real Estate Website Using MERN Stack
         44.2.4 "build": "npm install && npm install --prefix client && npm run build --prefix client" </br>
         44.2.5 Will get the dist folder </br>
         44.2.6 Run dist folder by backend index.js file </br>
+        44.2.7 After deploying, add the url to the firebase (otherwise google auth won't work) </br>
